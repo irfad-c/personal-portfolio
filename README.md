@@ -22,7 +22,8 @@ Open the `index.html` file in any web browser to view the portfolio locally.
 
 ## 📸 Screenshot
 
-![alt text](image.png)
+<img width="1747" height="685" alt="Screenshot 2025-10-29 214824" src="https://github.com/user-attachments/assets/ddeb3599-5d67-4a85-b12d-250186b7d927" />
+
 
 ## 👤 Author
 
